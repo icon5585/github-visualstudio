@@ -6,7 +6,7 @@ namespace github_learning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Making a change to a project backed by github!");
         }
     }
 }
