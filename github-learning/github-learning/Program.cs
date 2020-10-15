@@ -6,7 +6,7 @@ namespace github_learning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("MY ORIGINAL MESSAGE!");
+            Console.WriteLine("New message!!");
         }
     }
 }
